@@ -1,6 +1,7 @@
-# PASSWORD MANAGER
-## Introduction
-Electron Password Manager App
+# Electron Tutorial App
+## Introduction:
+...
+
 
 ## resources:
 - https://www.avira.com/en/blog/browser-based-password-managers-vs-dedicated-password-managers
